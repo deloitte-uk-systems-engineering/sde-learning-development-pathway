@@ -67,6 +67,39 @@ Java programming skills are always in high demand amongst large enterprise. Acco
 
 Upon completion of this course, you would acquire the following skills:
 
+- :loop: Programming in Java syntax - variables, flow control, operator, loop
+- :computer: Object oriented programming in java
+
+#### Time Required
+
+- Six weeks of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
+
+#### Tips
+
+- Complete the first fourteen hours of the course as they provide the most revelent content to help you be productive in Java
+- You may find Tim's teaching style repetitive. I suggest a note taking approach for this course instead following along everything
+- Once you understand the Java syntax, put your skills in practice by reaching at least Kyu 6 on [Codewars](https://www.codewars.com/)
+- I recommend to also complete training in Java Spring to enable you to create web applications in Java
+
+</p>
+</details>
+<details><summary>Certifications</summary>
+<p>
+
+### [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+
+![tim-java](images/tim-java.jpeg)
+
+Enjoyment: :confused: :unamused: :expressionless: :expressionless:
+
+#### Motivation
+
+Java programming skills are always in high demand amongst large enterprise. Accoring to the 2020 Stack Overflow developer survey [here](https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents), Java is one of the top three most popular programming languages
+
+#### Skills
+
+Upon completion of this course, you would acquire the following skills:
+
 - Coming soon
 
 #### Time Required
@@ -76,13 +109,6 @@ Upon completion of this course, you would acquire the following skills:
 #### Tips
 
 - Coming soon
-
-</p>
-</details>
-<details><summary>Certifications</summary>
-<p>
-
-Coming soon
 
 </p>
 </details>
