@@ -53,6 +53,30 @@ Upon completion of this course, you would acquire the following skills:
 - Do follow Angela's exercise throughout the courses
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
 
+### [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+
+![tim-java](images/tim-java.jpeg)
+
+Enjoyment: :confused: :unamused: :expressionless: :expressionless:
+
+#### Motivation
+
+Java programming skills are always in high demand amongst enterprises. Accoring to the 2020 Stack Overflow developer survey [here](https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents), Java is one of the top three most popular programming languages
+
+#### Skills
+
+Upon completion of this course, you would acquire the following skills:
+
+- Coming soon
+
+#### Time Required
+
+- Coming soon
+
+#### Tips
+
+- Coming soon
+
 </p>
 </details>
 <details><summary>Certifications</summary>
