@@ -26,7 +26,7 @@ For each training course, this guide covers:
 <details><summary>Courses</summary>
 <p>
 
-[### Full-stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+### [Full-stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ![full-stack-web-dev](images/full-stack-web-dev.jpeg)
 
