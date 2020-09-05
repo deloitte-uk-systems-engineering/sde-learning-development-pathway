@@ -16,7 +16,16 @@ For each training course, this guide covers:
 - :clock1: Time required, and
 - :pushpin: Tips to get the most out of the course
 
+# Table of Contents
+
+- [Analyst](#Analyst)
+- [Consultant](#Consultant)
+
 ## Analyst
+
+xx
+
+## Consultant
 
 xx
 
