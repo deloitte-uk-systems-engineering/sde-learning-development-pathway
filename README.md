@@ -30,6 +30,8 @@ For each training course, this guide covers:
 
 ![full-stack-web-dev](images/full-stack-web-dev.jpeg)
 
+Enjoyment: :heart_eyes: :heart_eyes: :heart_eyes: :heart_eyes: :heart_eyes:
+
 #### Motivation
 
 Full-stack web development skills are alwasy high in demand. This course acts as a baseline bootcamp training, especially for those who come from a non-technical background, to ensure you possess the right skills in order to be operational, and productive in a software development team
