@@ -88,7 +88,7 @@ Upon completion of this course, you would acquire the following skills:
 
 ### [AWS Certified Cloud Practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/)
 
-![aws-ccp](images/aws-ccp.png)
+![aws-ccp](images/aws2-ccp.png)
 
 Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
 
