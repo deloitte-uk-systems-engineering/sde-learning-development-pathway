@@ -86,15 +86,15 @@ Upon completion of this course, you would acquire the following skills:
 <details><summary>Certifications</summary>
 <p>
 
-### [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+### [AWS Certified Cloud Practitioner](https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/)
 
-![tim-java](images/tim-java.jpeg)
+![aws-ccp](images/aws-ccp.png)
 
-Enjoyment: :confused: :unamused: :expressionless: :expressionless:
+Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
 
 #### Motivation
 
-Java programming skills are always in high demand amongst large enterprise. Accoring to the 2020 Stack Overflow developer survey [here](https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents), Java is one of the top three most popular programming languages
+The world :earth_americas: runs on cloud :cloud:
 
 #### Skills
 
