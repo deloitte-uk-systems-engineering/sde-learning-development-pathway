@@ -76,8 +76,8 @@ Upon completion of this course, you would acquire the following skills:
 
 #### Tips
 
-- Complete the first fourteen hours of the course as they provide the most revelent content to help you be productive in Java
-- You may find Tim's teaching style repetitive. I suggest a note taking approach for this course instead following along everything
+- Complete the first fourteen hours of the course as they provide the most revelent content to help you be productive in Java :key:
+- You may find Tim's teaching style repetitive :unamused: I suggest a note taking approach for this course instead following along everything
 - Once you understand the Java syntax, put your skills in practice by reaching at least Kyu 6 on [Codewars](https://www.codewars.com/)
 - I recommend to also complete training in Java Spring to enable you to create web applications in Java
 
