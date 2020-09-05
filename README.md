@@ -34,7 +34,7 @@ Enjoyment: :heart_eyes: :heart_eyes: :heart_eyes: :heart_eyes: :heart_eyes:
 
 #### Motivation
 
-Full-stack web development skills are alwasy high in demand. This course acts as a baseline bootcamp training, especially for those who come from a non-technical background, to ensure you possess the right skills in order to be operational, and productive in a software development team
+Full-stack web development skills are alwasy in high demand. This course acts as a baseline bootcamp training, especially for those who come from a non-technical background, to ensure you possess the right skills in order to be operational, and productive in a software development team
 
 #### Skills
 
@@ -42,7 +42,7 @@ Upon completion of this course, you would acquire the following skills:
 
 - :art: Front-end web development with HTML5, CSS, Javascript, React, UX/UI degisn
 - :1234: Back-end server-side programming with Node.JS
-- :triangular_ruler: Developers tools such as Git version contro.
+- :triangular_ruler: Developers tools such as Git version control
 
 #### Time Required
 
@@ -61,7 +61,7 @@ Enjoyment: :confused: :unamused: :expressionless: :expressionless:
 
 #### Motivation
 
-Java programming skills are always in high demand amongst enterprises. Accoring to the 2020 Stack Overflow developer survey [here](https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents), Java is one of the top three most popular programming languages
+Java programming skills are always in high demand amongst large enterprise. Accoring to the 2020 Stack Overflow developer survey [here](https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents), Java is one of the top three most popular programming languages
 
 #### Skills
 
