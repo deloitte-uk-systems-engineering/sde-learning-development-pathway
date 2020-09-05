@@ -26,7 +26,25 @@ For each training course, this guide covers:
 <details><summary>Courses</summary>
 <p>
 
-xxx
+### Full-stack Web Development Bootcamp
+
+xx
+
+#### Motivation
+
+xx
+
+#### Skills
+
+xx
+
+#### Time Required
+
+xx
+
+#### Tips
+
+xx
 
 </p>
 </details>
@@ -40,7 +58,7 @@ xxx
 
 ## Consultant
 
-xx
+Coming soon
 
 ## Contributing
 
