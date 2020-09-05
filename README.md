@@ -32,26 +32,31 @@ For each training course, this guide covers:
 
 #### Motivation
 
-xx
+Full-stack web development skills are alwasy high in demand. This course acts as a baseline bootcamp training, especially for those who come from a non-technical background, to ensure you possess the right skills in order to be operational, and productive in a software development team
 
 #### Skills
 
-xx
+Upon completion of this course, you would acquire the following skills:
+
+- :art: Front-end web development with HTML5, CSS, Javascript, React, UX/UI degisn
+- :1234: Back-end server-side programming with Node.JS
+- :triangular_ruler: Developers tools such as Git version contro.
 
 #### Time Required
 
-xx
+- Two months of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
 
 #### Tips
 
-xx
+- Do follow Angela's exercise throughout the courses
+- Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
 
 </p>
 </details>
 <details><summary>Certifications</summary>
 <p>
 
-xxx
+Coming soon
 
 </p>
 </details>
