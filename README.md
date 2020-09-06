@@ -173,6 +173,8 @@ Upon completion of this course, you would acquire the following skills:
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
 - Put your skills in practice by contributing to the MERN stack open source project [here](https://github.com/deloitte-uk-systems-engineering/mern-ld-approval-app)
 
+</p>
+</details>
 <details><summary>Certifications</summary>
 <p>
 
