@@ -94,21 +94,16 @@ Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
 
 #### Motivation
 
-The world :earth_americas: runs on cloud :cloud:
+The world :earth_americas: runs on cloud :cloud: By becoming an AWS Certified Cloud Practitioner it makes you relevant in a client coversation, and increaes your chance of landing a technical client engagement role
 
-#### Skills
+#### Prepration and Registration
 
-Upon completion of this course, you would acquire the following skills:
-
-- Coming soon
-
-#### Time Required
-
-- Coming soon
+Please follow the Alliance AWS 101 course on how to prepare, and register for the AWS Certified Cloud Practitioner certification
 
 #### Tips
 
-- Coming soon
+- I recommend to complete the Udemy AWS CCP prepreation questions [here](https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/). If you can score over 90% acorss the question sets, you are good to go
+- I also recommend to study for the AWS Certified Solutions Architect – Associate certification, then take the AWS CCP examination followed by the AWS CSAA examination as the AWS CSAA content overlaps AWS CCP
 
 </p>
 </details>
