@@ -20,7 +20,7 @@ For each training course, this guide covers:
 
 - [Analyst](#Analyst)
 - [Consultant](#Consultant)
-- [Senior Consultant](#Senior Consultant)
+- [Senior Consultant](#Senior-Consultant)
 
 ## Analyst
 
