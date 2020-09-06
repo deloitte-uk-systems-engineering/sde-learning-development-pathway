@@ -50,7 +50,7 @@ Upon completion of this course, you would acquire the following skills:
 
 #### Tips
 
-- Do follow Angela's exercise throughout the courses
+- Do follow Angela's exercises throughout the courses
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
 
 ### [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
@@ -110,26 +110,30 @@ Please follow the Alliance AWS 101 course on how to prepare, and register for th
 
 ## Consultant
 
+At Consultant grade, you are expected to be able to operate and be productive, in **at least one front-end library/framework**, and **at least one back-end framework**
+
+In additional, you should be able to operate and be productive, in **at least one platform engineering tool**
+
 <details><summary>Courses</summary>
 <p>
 
-### [Full-stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+### [Node.JS](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
-![full-stack-web-dev](images/full-stack-web-dev.jpeg)
+![nodejs](images/nodejs.jpeg)
 
-Enjoyment: :heart_eyes: :heart_eyes: :heart_eyes: :heart_eyes: :heart_eyes:
+Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
 
 #### Motivation
 
-Full-stack web development skills are alwasy in high demand. This course acts as a baseline bootcamp training, especially for those who come from a non-technical background, to ensure you possess the right skills in order to be operational, and productive in a software development team
+Node.JS is one of the commonly used server-side programming tools according to the 2020 Stack Overflow developer survey [here](https://insights.stackoverflow.com/survey/2020#technology-other-frameworks-libraries-and-tools-all-respondents3). It is also commonly used to write AWS serverless Lambda functions
 
 #### Skills
 
 Upon completion of this course, you would acquire the following skills:
 
-- :art: Front-end web development with HTML5, CSS, Javascript, React, UX/UI degisn
-- :1234: Back-end server-side programming with Node.JS
-- :triangular_ruler: Developers tools such as Git version control
+- :white_check_mark: Modern ES6 Javascript syntax
+- :1234: Server-side programming in Node.JS
+- :muscle: Unit testing in Node.JS
 
 #### Time Required
 
@@ -137,36 +141,36 @@ Upon completion of this course, you would acquire the following skills:
 
 #### Tips
 
-- Do follow Angela's exercise throughout the courses
+- Do follow Andrew's exercises throughout the courses
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
+- Put your skills in practice by contributing to the MERN stack open source project [here](https://github.com/deloitte-uk-systems-engineering/mern-ld-approval-app)
 
-### [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/)
+### [React](https://www.udemy.com/course/react-2nd-edition/)
 
-![tim-java](images/tim-java.jpeg)
+![react](images/react.jpeg)
 
-Enjoyment: :confused: :unamused: :expressionless: :expressionless:
+Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
 
 #### Motivation
 
-Java programming skills are always in high demand amongst large enterprise. Accoring to the 2020 Stack Overflow developer survey [here](https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents), Java is one of the top three most popular programming languages
+React is one of the commonly used front-end web development libraries according to the 2020 Stack Overflow developer survey [here](https://insights.stackoverflow.com/survey/2020#technology-web-frameworks-all-respondents2). React skills is in high demand
 
 #### Skills
 
 Upon completion of this course, you would acquire the following skills:
 
-- :loop: Programming in Java syntax - variables, flow control, operator, loop
-- :computer: Object oriented programming in java
+- :key: Key principals of the React library. How to think in React components
+- :muscle: Redux as a state management tool
 
 #### Time Required
 
-- Six weeks of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
+- Two months of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
 
 #### Tips
 
-- Complete the first fourteen hours of the course as they provide the most revelent content to help you be productive in Java :key:
-- You may find Tim's teaching style repetitive :unamused: I suggest a note taking approach for this course instead following along everything
-- Once you understand the Java syntax, put your skills in practice by reaching at least Kyu 6 on [Codewars](https://www.codewars.com/)
-- I recommend to also complete training in Java Spring to enable you to create web applications in Java
+- Do follow Andrew's exercises throughout the courses. You may fast-forward content on styling as it is not the key objective of the course
+- Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
+- Put your skills in practice by contributing to the MERN stack open source project [here](https://github.com/deloitte-uk-systems-engineering/mern-ld-approval-app)
 
 ## Contributing
 
