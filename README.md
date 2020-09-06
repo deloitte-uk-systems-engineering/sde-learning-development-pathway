@@ -20,6 +20,7 @@ For each training course, this guide covers:
 
 - [Analyst](#Analyst)
 - [Consultant](#Consultant)
+- [Senior Consultant](#Senior Consultant)
 
 ## Analyst
 
@@ -112,7 +113,7 @@ Please follow the Alliance AWS 101 course on how to prepare, and register for th
 
 At Consultant grade, you are expected to be able to operate and be productive, in **at least one front-end library/framework**, and **at least one back-end framework**
 
-In additional, you should be able to operate and be productive, in **at least one platform engineering tool**
+In addition, you should be able to operate and be productive, in **at least one platform engineering tool**
 
 <details><summary>Courses</summary>
 <p>
@@ -171,6 +172,32 @@ Upon completion of this course, you would acquire the following skills:
 - Do follow Andrew's exercises throughout the courses. You may fast-forward content on styling as it is not the key objective of the course
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
 - Put your skills in practice by contributing to the MERN stack open source project [here](https://github.com/deloitte-uk-systems-engineering/mern-ld-approval-app)
+
+<details><summary>Certifications</summary>
+<p>
+
+Coming soon
+
+</p>
+</details>
+
+## Senior Consultant
+
+<details><summary>Courses</summary>
+<p>
+
+Coming soon
+
+</p>
+</details>
+
+<details><summary>Certifications</summary>
+<p>
+
+Coming soon
+
+</p>
+</details>
 
 ## Contributing
 
