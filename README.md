@@ -116,7 +116,7 @@ Please follow the Alliance AWS 101 course on how to prepare, and register for th
 
 ### Your capability to operate in a software development team
 
-- Within two weeks of joining a development team, under guidance you are able to contribute to minor enhancement by referencing existing code base
+- Within two weeks of joining a development team, under guidance :muscle: you are able to contribute to minor enhancement by referencing existing code base :white_check_mark:
 
 </p>
 </details>
@@ -195,6 +195,18 @@ Coming soon
 </p>
 </details>
 
+</p>
+</details>
+<details><summary>Expectations</summary>
+<p>
+
+### Your capability to operate in a software development team
+
+- Within two weeks of joning a development team, you are able to contribute to enhancement of the existing code base, and minor feature development :fire: :muscle:
+
+</p>
+</details>
+
 ## Senior Consultant
 
 <details><summary>Courses</summary>
@@ -212,6 +224,25 @@ Coming soon
 
 </p>
 </details>
+
+</p>
+</details>
+<details><summary>Expectations</summary>
+<p>
+
+### Your capability to operate in a software development team
+
+- Within two weeks of joning a development team, you are able to contribute to feature development :fire: :muscle:
+- Lead a small team of two, to three developers :couple:
+- Make component level technical decisions :left_right_arrow:
+
+</p>
+</details>
+
+## Senior Consultant
+
+<details><summary>Courses</summary>
+<p>
 
 ## Contributing
 
