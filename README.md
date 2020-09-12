@@ -185,6 +185,34 @@ Upon completion of this course, you would acquire the following skills:
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
 - Put your skills in practice by contributing to the MERN stack open source project [here](https://github.com/deloitte-uk-systems-engineering/mern-ld-approval-app)
 
+### [Java Spring Boot](https://www.youtube.com/watch?v=r-6BwGW4Sr8)
+
+![spring-boot](images/spring-boot.jpeg)
+
+Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
+
+#### Motivation
+
+Spring is one of the commonly used Java web development framework according to the 2020 Stack Overflow developer survey [here](https://insights.stackoverflow.com/survey/2020#technology-web-frameworks-all-respondents2). Spring Boot skills is in high demand
+
+#### Skills
+
+Upon completion of this course, you would acquire the following skills:
+
+- :muscle: Create web application with Java Spring Boot framework
+- :ledger: Connecting your web application to a PostgreSQL database
+- :lock: Add user authentications with Spring Security
+
+#### Time Required
+
+- One month of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
+
+#### Tips
+
+- Upon completion of the Spring Boot tutorial above :point_up: complete the these follow-up courses :point_right: :point_right: [Connecting Spring Boot to PostgreSQL](https://www.youtube.com/watch?v=8fbfHu8isI4), and [Spring Security](https://www.youtube.com/watch?v=her_7pa0vrg)
+- Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
+- Put your skills in practice by contributing to the Springskills tracker app open source project [here](https://github.com/deloitte-uk-systems-engineering/java-spring-skills-tracker)
+
 </p>
 </details>
 <details><summary>Certifications</summary>
