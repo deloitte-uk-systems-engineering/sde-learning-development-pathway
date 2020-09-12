@@ -109,6 +109,18 @@ Please follow the Alliance AWS 101 course on how to prepare, and register for th
 </p>
 </details>
 
+</p>
+</details>
+<details><summary>Expectations</summary>
+<p>
+
+### Your capability to operate in a software development team
+
+- Within two weeks of joining a development team, under guidance you are able to contribute to minor enhancement by referencing existing code base
+
+</p>
+</details>
+
 ## Consultant
 
 At Consultant grade, you are expected to be able to operate and be productive, in **at least one front-end library/framework**, and **at least one back-end framework**
