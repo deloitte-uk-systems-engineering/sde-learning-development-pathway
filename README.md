@@ -130,6 +130,9 @@ In addition, you should be able to operate and be productive, in **at least one 
 <details><summary>Courses</summary>
 <p>
 
+<details><summary>Back-end</summary>
+<p>
+
 ### [Node.JS](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 
 ![nodejs](images/nodejs.jpeg)
@@ -155,33 +158,6 @@ Upon completion of this course, you would acquire the following skills:
 #### Tips
 
 - Do follow Andrew's exercises throughout the courses
-- Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
-- Put your skills in practice by contributing to the MERN stack open source project [here](https://github.com/deloitte-uk-systems-engineering/mern-ld-approval-app)
-
-### [React](https://www.udemy.com/course/react-2nd-edition/)
-
-![react](images/react.jpeg)
-
-Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
-
-#### Motivation
-
-React is one of the commonly used front-end web development libraries according to the 2020 Stack Overflow developer survey [here](https://insights.stackoverflow.com/survey/2020#technology-web-frameworks-all-respondents2). React skills is in high demand
-
-#### Skills
-
-Upon completion of this course, you would acquire the following skills:
-
-- :key: Key principals of the React library. How to think in React components
-- :muscle: Redux as a state management tool
-
-#### Time Required
-
-- Two months of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
-
-#### Tips
-
-- Do follow Andrew's exercises throughout the courses. You may fast-forward content on styling as it is not the key objective of the course
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
 - Put your skills in practice by contributing to the MERN stack open source project [here](https://github.com/deloitte-uk-systems-engineering/mern-ld-approval-app)
 
@@ -212,6 +188,42 @@ Upon completion of this course, you would acquire the following skills:
 - Upon completion of the Spring Boot tutorial above :point_up: complete the these follow-up courses :point_right: :point_right: [Connecting Spring Boot to PostgreSQL](https://www.youtube.com/watch?v=8fbfHu8isI4), and [Spring Security](https://www.youtube.com/watch?v=her_7pa0vrg)
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
 - Put your skills in practice by contributing to the Spring skills tracker app open source project [here](https://github.com/deloitte-uk-systems-engineering/java-spring-skills-tracker)
+
+</p>
+</details>
+
+<details><summary>Front-end</summary>
+<p>
+
+### [React](https://www.udemy.com/course/react-2nd-edition/)
+
+![react](images/react.jpeg)
+
+Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
+
+#### Motivation
+
+React is one of the commonly used front-end web development libraries according to the 2020 Stack Overflow developer survey [here](https://insights.stackoverflow.com/survey/2020#technology-web-frameworks-all-respondents2). React skills is in high demand
+
+#### Skills
+
+Upon completion of this course, you would acquire the following skills:
+
+- :key: Key principals of the React library. How to think in React components
+- :muscle: Redux as a state management tool
+
+#### Time Required
+
+- Two months of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
+
+#### Tips
+
+- Do follow Andrew's exercises throughout the courses. You may fast-forward content on styling as it is not the key objective of the course
+- Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
+- Put your skills in practice by contributing to the MERN stack open source project [here](https://github.com/deloitte-uk-systems-engineering/mern-ld-approval-app)
+
+</p>
+</details>
 
 </p>
 </details>
