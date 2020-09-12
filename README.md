@@ -227,6 +227,7 @@ Coming soon
 
 </p>
 </details>
+
 <details><summary>Expectations</summary>
 <p>
 
@@ -238,11 +239,6 @@ Coming soon
 
 </p>
 </details>
-
-## Senior Consultant
-
-<details><summary>Courses</summary>
-<p>
 
 ## Contributing
 
