@@ -200,7 +200,7 @@ Spring is one of the commonly used Java web development framework according to t
 Upon completion of this course, you would acquire the following skills:
 
 - :muscle: Create web application with Java Spring Boot framework
-- :ledger: Connecting your web application to a PostgreSQL database
+- :ledger: Connect your web application to a PostgreSQL database
 - :lock: Add user authentications with Spring Security
 
 #### Time Required
@@ -211,14 +211,30 @@ Upon completion of this course, you would acquire the following skills:
 
 - Upon completion of the Spring Boot tutorial above :point_up: complete the these follow-up courses :point_right: :point_right: [Connecting Spring Boot to PostgreSQL](https://www.youtube.com/watch?v=8fbfHu8isI4), and [Spring Security](https://www.youtube.com/watch?v=her_7pa0vrg)
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
-- Put your skills in practice by contributing to the Springskills tracker app open source project [here](https://github.com/deloitte-uk-systems-engineering/java-spring-skills-tracker)
+- Put your skills in practice by contributing to the Spring skills tracker app open source project [here](https://github.com/deloitte-uk-systems-engineering/java-spring-skills-tracker)
 
 </p>
 </details>
 <details><summary>Certifications</summary>
 <p>
 
-Coming soon
+### [AWS Certified Solutions Architect Associate](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-tests-k/)
+
+![aws-csaa](images/aws-csaa.png)
+
+Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
+
+#### Motivation
+
+The world :earth_americas: runs on cloud :cloud: By becoming an AWS Certified Solutions Architect Associate it makes you very relevant in a client coversation, and increaes your chance of landing a technical client engagement role
+
+#### Prepration and Registration
+
+Please follow the Alliance AWS CSAA springs on how to prepare, and register for the AWS Certified Solutions Architect Associate certification
+
+#### Tips
+
+- I recommend to complete the Udemy AWS CSAA prepreation questions [here](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-tests-k/). If you can score over 90% across the question sets, you are good to go
 
 </p>
 </details>
