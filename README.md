@@ -296,10 +296,36 @@ Please follow the Alliance AWS CSAA springs on how to prepare, and register for 
 
 ## Senior Consultant
 
+At Senior Consultant grade, you are expected to be able to operate and be productive, in **at least two front-end library/framework**, and **at least two back-end framework**
+
+In addition, you should be able to operate and be productive, in **at least two platform engineering tool**
+
 <details><summary>Courses</summary>
 <p>
 
+<details><summary>Front-end</summary>
+<p>
+
 Coming soon
+
+</p>
+</details>
+
+<details><summary>Back-end</summary>
+<p>
+
+Coming soon
+
+</p>
+</details>
+
+<details><summary>Platform Engineering</summary>
+<p>
+
+Coming soon
+
+</p>
+</details>
 
 </p>
 </details>
