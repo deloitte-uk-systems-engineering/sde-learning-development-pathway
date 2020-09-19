@@ -322,7 +322,29 @@ Coming soon
 <details><summary>Platform Engineering</summary>
 <p>
 
-Coming soon
+### [Terraform](https://learn.hashicorp.com/collections/terraform/aws-get-started)
+
+![terraform-aws](images/terraform-aws.jpeg)
+
+Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
+
+#### Motivation
+
+Terraform is the most commonly used cloud infrastructure management tool. Terraform skills is in high demand
+
+#### Skills
+
+Upon completion of this course, you would acquire the following skills:
+
+- :key: Key principals of the Terraform - create, destroy, and manage cloud infrastructures
+
+#### Time Required
+
+- Two months of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
+
+#### Tips
+
+- Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
 
 </p>
 </details>
