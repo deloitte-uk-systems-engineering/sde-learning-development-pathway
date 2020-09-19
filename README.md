@@ -225,6 +225,37 @@ Upon completion of this course, you would acquire the following skills:
 </p>
 </details>
 
+<details><summary>Platform Engineering</summary>
+<p>
+
+### [Docker and Kubernetes](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
+
+![docker-k8](images/docker-k8.jpeg)
+
+Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
+
+#### Motivation
+
+Docker is the most commonly used application containerisation tool; Kubernetes is one of the mostly commonly used container orchestration tool. Docker, and Kubernetes skills are in high demand
+
+#### Skills
+
+Upon completion of this course, you would acquire the following skills:
+
+- :key: Key principals of the Docker, and container orchestration with Kubernetes
+
+#### Time Required
+
+- Two months of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
+
+#### Tips
+
+- Do follow Stephen's instructions throughout the courses
+- Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
+
+</p>
+</details>
+
 </p>
 </details>
 <details><summary>Certifications</summary>
