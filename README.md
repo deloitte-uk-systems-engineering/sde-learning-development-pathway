@@ -324,7 +324,7 @@ Coming soon
 
 ### [Terraform](https://learn.hashicorp.com/collections/terraform/aws-get-started)
 
-![terraform-aws](images/terraform-aws.jpeg)
+![terraform-aws](images/terraform-aws.png)
 
 Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
 
@@ -340,11 +340,12 @@ Upon completion of this course, you would acquire the following skills:
 
 #### Time Required
 
-- Two months of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
+- Two week of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
 
 #### Tips
 
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
+- Put your skills in practice by contributing to the Terraform React full-stack open source project [here](https://github.com/deloitte-uk-systems-engineering/react-serverless-aws-terraform)
 
 </p>
 </details>
