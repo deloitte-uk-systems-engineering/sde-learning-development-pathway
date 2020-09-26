@@ -189,6 +189,32 @@ Upon completion of this course, you would acquire the following skills:
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
 - Put your skills in practice by contributing to the Spring skills tracker app open source project [here](https://github.com/deloitte-uk-systems-engineering/java-spring-skills-tracker)
 
+### [Python Flask](https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/)
+
+![nodejs](images/python-flask.jpeg)
+
+Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
+
+#### Motivation
+
+Python is one of the commonly used programming languages to the 2020 Stack Overflow developer survey [here](https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-all-respondents). Flaks is one of the commonly used web framework written in Python
+
+#### Skills
+
+Upon completion of this course, you would acquire the following skills:
+
+- :white_check_mark: Python 3 syntax
+- :1234: Server-side programming in Python using the Flask framework
+
+#### Time Required
+
+- Two months of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
+
+#### Tips
+
+- Do follow Jose's exercises throughout the first half of the course. You may fast-forward content on front-end web development as it is not the key objective of the course
+- Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
+
 </p>
 </details>
 
