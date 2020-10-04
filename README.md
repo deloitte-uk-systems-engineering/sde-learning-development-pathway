@@ -86,6 +86,30 @@ Upon completion of this course, you would acquire the following skills:
 - Once you understand the Java syntax, put your skills in practice by reaching at least Kyu 6 on [Codewars](https://www.codewars.com/)
 - I recommend to also complete training in Java Spring to enable you to create web applications in Java
 
+### [JIRA Administration](https://www.linkedin.com/learning/jira-software-basic-administration-2017)
+
+![full-stack-web-dev](images/full-stack-web-dev.jpeg)
+
+Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
+
+#### Motivation
+
+JIRA is one of most commonly used issue tracking tools developed by [Atlassian](https://www.atlassian.com/) that allows bug tracking and agile project management
+
+#### Skills
+
+Upon completion of this course, you would acquire the following skills:
+
+- JIRA administration, and workflows management
+
+#### Time Required
+
+- Four weeks of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
+
+#### Tips
+
+- TBC
+
 </p>
 </details>
 <details><summary>Certifications</summary>
