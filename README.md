@@ -88,7 +88,7 @@ Upon completion of this course, you would acquire the following skills:
 
 ### [JIRA Administration](https://www.linkedin.com/learning/jira-software-basic-administration-2017)
 
-![full-stack-web-dev](images/full-stack-web-dev.jpeg)
+![jira](images/jira.jpeg)
 
 Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
 
@@ -100,7 +100,7 @@ JIRA is one of most commonly used issue tracking tools developed by [Atlassian](
 
 Upon completion of this course, you would acquire the following skills:
 
-- JIRA administration, and workflows management
+- :bug: :pushpin: JIRA administration, and workflows management
 
 #### Time Required
 
@@ -108,7 +108,7 @@ Upon completion of this course, you would acquire the following skills:
 
 #### Tips
 
-- TBC
+- Do also complete the JIRA Advanced Administration course [here](https://www.linkedin.com/learning/jira-software-advanced-administration)
 
 </p>
 </details>
