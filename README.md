@@ -24,6 +24,10 @@ For each training course, this guide covers:
 
 ## Analyst
 
+At Analyst grade, you are expected to undergo training in full-stack web development, and basic programming in Java
+
+In addition, you are expected to be aware of software development and collaboration tools such as JIRA, and Confluence
+
 <details><summary>Courses</summary>
 <p>
 
