@@ -333,6 +333,33 @@ Upon completion of this course, you would acquire the following skills:
 - Do follow Stephen's instructions throughout the courses
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
 
+### [Spring Boot application in Jenkins](https://www.youtube.com/watch?v=sCcuUMn1vdM)
+
+![spring-boot-jenkins](images/spring-boot-jenkins.jpeg)
+
+Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
+
+#### Motivation
+
+Docker is the most commonly used application containerisation tool; Jenkins is one of the mostly commonly used build tool for Java application
+
+#### Skills
+
+Upon completion of this course, you would acquire the following skills:
+
+- :key: Setting up Jenkins pipelines to build a Spring Boot application
+- :whale: Wrapping a Spring Boot application in a Docker image, building it in Jenkins
+- :cloud: Deploying the Docker image as a container from Jenkins into AWS
+
+#### Time Required
+
+- One month of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
+
+#### Tips
+
+- Do complete other relevant tutorials on Tom's channel [here](https://www.youtube.com/channel/UCxOVEOhPNXcJuyfVLhm_BfQ)
+- Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
+
 </p>
 </details>
 
