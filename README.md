@@ -454,6 +454,30 @@ Upon completion of this course, you would acquire the following skills:
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
 - Put your skills in practice by contributing to the Terraform React full-stack open source project [here](https://github.com/deloitte-uk-systems-engineering/react-serverless-aws-terraform)
 
+### [Systems Design Fundamentals](https://www.algoexpert.io/systems/fundamentals)
+
+![systems-design](images/systems-design.jpeg)
+
+Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
+
+#### Motivation
+
+The creator of this course [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g), is an ex-Google, and ex-Facebook software engineer
+
+#### Skills
+
+Upon completion of this course, you would acquire the following skills:
+
+- :key: Foundational knowledge you need to operate as a systems design engineer
+
+#### Time Required
+
+- Two months of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
+
+#### Tips
+
+- Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
+
 </p>
 </details>
 
