@@ -271,7 +271,7 @@ Upon completion of this course, you would acquire the following skills:
 
 ### [Scala](https://www.udemy.com/course/stairway-to-scala-applied-part-1/)
 
-![scala](images/scala-applied.jpg)
+![scala](images/scala.png)
 
 Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
 
