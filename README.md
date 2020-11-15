@@ -269,6 +269,32 @@ Upon completion of this course, you would acquire the following skills:
 - Do follow Nick's exercises throughout the first half of the course. You may fast-forward content on front-end web development as it is not the key objective of the course
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
 
+### [Scala](https://www.udemy.com/course/stairway-to-scala-applied-part-1/)
+
+![scala](images/scala-applied.jpeg)
+
+Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
+
+#### Motivation
+
+Since 2020, there has been an increasing demand for Scala skills in the public, and private sector
+
+#### Skills
+
+Upon completion of this course, you would acquire the following skills:
+
+- :white_check_mark: Scala syntax
+- :1234: Basics of functional programming
+
+#### Time Required
+
+- Two months of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
+
+#### Tips
+
+- Do experiment with the [Play framework](https://www.playframework.com/) and build your own Scala web servers
+- Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
+
 </p>
 </details>
 
