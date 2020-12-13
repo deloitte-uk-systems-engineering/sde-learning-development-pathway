@@ -504,6 +504,31 @@ Upon completion of this course, you would acquire the following skills:
 
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
 
+### [Deployment Automation with Terraform, AWS and Docker](https://www.udemy.com/course/devops-deployment-automation-terraform-aws-docker/)
+
+![aws-tf-gitlab](images/aws-tf-gitlab.jpeg)
+
+Enjoyment: :thumbsup: :thumbsup: :thumbsup: :thumbsup:
+
+#### Motivation
+
+Terraform is the most commonly used cloud infrastructure management tool. Terraform, and AWS deployment automation skills are in high demand
+
+#### Skills
+
+Upon completion of this course, you would acquire the following skills:
+
+- :key: Key principals of the Terraform - create, destroy, and manage cloud infrastructures
+- :cloud: Automate AWS deployment with Gitlab as CI/CD tool
+
+#### Time Required
+
+- Two months of part-time effort assuming one hour of input on weekdays, and at least two hours of input on weekends
+
+#### Tips
+
+- Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
+
 </p>
 </details>
 
