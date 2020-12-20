@@ -292,7 +292,8 @@ Upon completion of this course, you would acquire the following skills:
 
 #### Tips
 
-- Do experiment with the [Play framework](https://www.playframework.com/) and build your own Scala web servers
+- Do experiment with the [Play framework](https://www.playframework.com/) and build your own Scala web services
+- Put your skills in practice by contributing to the Scala skills tracker app open source project [here](https://github.com/deloitte-uk-systems-engineering/scala-play-skills-tracker)
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
 
 </p>
