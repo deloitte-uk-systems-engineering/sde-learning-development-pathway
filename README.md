@@ -479,7 +479,7 @@ Upon completion of this course, you would acquire the following skills:
 #### Tips
 
 - Start creating your technical learning notes. I personally recommend [Evernote](https://evernote.com/)
-- Put your skills in practice by contributing to the Terraform React full-stack open source project [here](https://github.com/deloitte-uk-systems-engineering/react-serverless-aws-terraform)
+- Put your skills in practice by contributing to the Terraform React full-stack open source project [here](https://github.com/deloitte-uk-systems-engineering/react-serverless-aws-terraform), or to the AWS Fargate open source project [here](https://github.com/deloitte-uk-systems-engineering/node-aws-fargate-terraform)
 
 ### [Systems Design Fundamentals](https://www.algoexpert.io/systems/fundamentals)
 
